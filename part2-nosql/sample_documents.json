@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "E1001",
+    "category": "Electronics",
+    "name": "Samsung 55-inch 4K Smart TV",
+    "price": 54999,
+    "brand": "Samsung",
+    "specifications": {
+      "screen_size": "55 inch",
+      "resolution": "4K UHD",
+      "smart_tv": true,
+      "ports": ["HDMI", "USB", "Bluetooth"],
+      "power_consumption": "150W"
+    },
+    "warranty": {
+      "period_years": 2,
+      "type": "On-site"
+    },
+    "ratings": {
+      "average": 4.5,
+      "reviews_count": 1287
+    }
+  },
+  {
+    "product_id": "C2001",
+    "category": "Clothing",
+    "name": "Men's Slim Fit Denim Jacket",
+    "price": 2499,
+    "brand": "Levi's",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "color_options": ["Blue", "Black"],
+    "material": {
+      "fabric": "Denim",
+      "composition": "100% Cotton"
+    },
+    "care_instructions": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Iron at low temperature"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "reviews_count": 342
+    }
+  },
+  {
+    "product_id": "G3001",
+    "category": "Groceries",
+    "name": "Amul Full Cream Milk 1L",
+    "price": 65,
+    "brand": "Amul",
+    "expiry_date": "2026-04-01",
+    "manufacturing_date": "2026-03-20",
+    "nutrition": {
+      "calories_per_100ml": 67,
+      "protein": "3.2g",
+      "fat": "4.0g",
+      "carbohydrates": "5.0g"
+    },
+    "storage_instructions": "Keep refrigerated below 4°C",
+    "packaging": {
+      "type": "Tetra Pack",
+      "volume": "1L"
+    }
+  }
+]
